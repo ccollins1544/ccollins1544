@@ -3,8 +3,11 @@
 Welcome to my GitHub profile!
 
 💫 I’m currently working on [my-first-gatsby][my-first-gatsby]
+
 🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte]
+
 ❤️ loving [react][react], and [styled-components][styled]
+
 📫 How to reach me: chris@ccollins.io
 
 🏡 [website][website] **|**

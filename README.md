@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile!
+
+💫 I’m currently working on [my-first-gatsby][my-first-gatsby]
+🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte]
+❤️ loving [react][react], and [styled-components][styled]
+📫 How to reach me: chris@ccollins.io
+
+🏡 [website][website] **|**
+👔 [linkedin][linkedin]
+
+[website]: https://ccollins.io
+[linkedin]: https://www.linkedin.com/in/ccollins1544/
+[gatsby]: https://gatsbyjs.org
+[jamstack]: https://jamstack.org
+[svelte]: https://svelte.dev
+[react]: http://reactjs.org
+[styled]: https://styled-components.com
+[my-first-gatsby]: https://github.com/ccollins1544/my-first-gatsby
+
 <!--
 **ccollins1544/ccollins1544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile!
 
-💫 I’m currently working on [my-first-gatsby][my-first-gatsby]
-🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte]
-❤️ loving [react][react], and [styled-components][styled]
-📫 How to reach me: chris@ccollins.io
+💫 I’m currently working on [my-first-gatsby][my-first-gatsby] <br />
+🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte] <br />
+❤️ loving [react][react], and [styled-components][styled] <br />
+📫 How to reach me: chris@ccollins.io <br />
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin]

@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 [svelte]: https://svelte.dev
 [react]: http://reactjs.org
 [styled]: https://styled-components.com
-[my-first-gatsby]: https://github.com/ccollins1544/my-first-gatsby
+[cc-rest-api]: https://github.com/ccollins1544/cc-rest-api
 
 <!--
 **ccollins1544/ccollins1544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

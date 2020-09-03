@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-💫 I’m currently working on [cc-rest-api][cc-rest-api] <br />
+💫 I’m currently working on a groupme bot <br />
 🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte] <br />
 ❤️ loving [react][react], and [styled-components][styled] <br />
 📫 How to reach me: chris@ccollins.io <br />

@@ -1,22 +1,17 @@
-#### Full Stack Web Developer 
-
-👋 Welcome to my GitHub profile!
+# 👋 Welcome to my GitHub profile!
 
 💫 I’m currently working on a groupme bot <br />
 🌱 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte] <br />
 ❤️ loving [react][react], and [styled-components][styled] <br />
 📫 How to reach me: chris@ccollins.io <br />
 
-<hr />
-<div class="git-stats">
+<p align="center">
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=ccollins1544&show_icons=true&theme=solarized-dark)
 
-</div>
-
-<p class="other-links">
   🏡 [website][website] **|**
   👔 [linkedin][linkedin]
+
 </p>
 
 [website]: https://ccollins.io

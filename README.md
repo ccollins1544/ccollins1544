@@ -1,14 +1,23 @@
-### Hi there 👋
+#### Full Stack Web Developer 
 
-Welcome to my GitHub profile!
+👋 Welcome to my GitHub profile!
 
 💫 I’m currently working on a groupme bot <br />
-🎓 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte] <br />
+🌱 learning [gatsby][gatsby], [jamstack][jamstack], and [svelte][svelte] <br />
 ❤️ loving [react][react], and [styled-components][styled] <br />
 📫 How to reach me: chris@ccollins.io <br />
 
-🏡 [website][website] **|**
-👔 [linkedin][linkedin]
+<hr />
+<div class="git-stats">
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=ccollins1544&show_icons=true&theme=solarized-dark)
+
+</div>
+
+<p class="other-links">
+  🏡 [website][website] **|**
+  👔 [linkedin][linkedin]
+</p>
 
 [website]: https://ccollins.io
 [linkedin]: https://www.linkedin.com/in/ccollins1544/
@@ -18,18 +27,3 @@ Welcome to my GitHub profile!
 [react]: http://reactjs.org
 [styled]: https://styled-components.com
 [cc-rest-api]: https://github.com/ccollins1544/cc-rest-api
-
-<!--
-**ccollins1544/ccollins1544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

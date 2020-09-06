@@ -1,0 +1,32 @@
+:root {
+  --main-bg-color: #fff;
+  --main-text-color: #000;
+  --main-font-family: "Montserrat", sans-serif;
+  --primary-menu-font: "Ubuntu";
+  --accent-text: #E9290F;
+  --primary-menu-text: #0092CA;
+  --primary-menu-background: #2c2f33;
+  --secondary-menu-text: #99aab5;
+  --secondary-menu-background: #23272a;
+  --button-text: #0092CA;
+  --button-background: #2c2f33;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  padding: 15px;
+  font-weight: 300;
+  font-size: 16px;
+  font-family: var(--main-font-family);
+  color: var(--main-text-color);
+  background-color: var(--main-bg-color);
+}
+
+.git-stats,
+.other-links {
+  text-align: center;
+}

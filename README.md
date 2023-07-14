@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-💰 Working as Fullstack Software Engineer at **Disability Planners**<br />
+💰 Working as Fullstack Software Engineer<br />
 👨🏼‍🏫 Coding with [react][react], [styled-components][styled], [nodejs][nodejs], [PostgreSQL][PostgreSQL], [MongoDB][MongoDB]. Mostly MERN Stack<br />
 📫 How to reach me: chris@ccollins.io <br />
 
